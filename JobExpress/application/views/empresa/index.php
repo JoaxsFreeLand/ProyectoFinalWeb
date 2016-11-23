@@ -1,0 +1,1 @@
+<?php plantilla::start(); ?>
